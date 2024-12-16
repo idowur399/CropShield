@@ -1,0 +1,18 @@
+
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+O
+contracts/insurance-policy.clar,a/c/acb1483e079bf2e7fedf98774ef5a75a74f977cd
+N
+tests/insurance-policy.test.ts,0/d/0d1cd4fdc475e0e2a30ce6d0c8c87039dc276033
+N
+contracts/premium-payment.clar,e/8/e8a8341e64d5e685fb74e18f7a207f5a8693d13f
+M
+tests/premium-payment.test.ts,b/f/bf78b6620f8bee5696dd020bdeb2154c3fafecdd
+M
+contracts/weather-oracle.clar,9/1/91996854794d2cec790d71498b2a388f98be7d49
+L
+tests/weather-oracle.test.ts,4/8/48ed39849482aa0c44e2c7a0e8fffba5f92614e5
