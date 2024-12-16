@@ -8,3 +8,5 @@ O
 contracts/insurance-policy.clar,a/c/acb1483e079bf2e7fedf98774ef5a75a74f977cd
 N
 tests/insurance-policy.test.ts,0/d/0d1cd4fdc475e0e2a30ce6d0c8c87039dc276033
+N
+contracts/premium-payment.clar,e/8/e8a8341e64d5e685fb74e18f7a207f5a8693d13f
